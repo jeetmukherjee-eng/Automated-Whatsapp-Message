@@ -1,2 +1,2 @@
 import pywhatkit
-pywhatkit.sendwhatmsg("+916290308277","Ami ata patachhi na , akta automated system patachhe",20,6)
+pywhatkit.sendwhatmsg("the whatsapp number with the country code","The text you want to send",hour,minute,sec(optional))
